@@ -1,0 +1,9 @@
+# local package
+#-e .
+
+fastapi
+uvicorn
+joblib
+sklearn
+pandas
+requests
